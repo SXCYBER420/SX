@@ -25,7 +25,7 @@ _CLONE FULL OK IDZ_
 - `rm -rf SX`
 - `git clone https://github.com/SXCYBER420/SX `
 - `cd SX`
-- `python SX_CYBER.py`
+- `python SX-1.0.py`
 
 
 
