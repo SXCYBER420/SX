@@ -23,9 +23,9 @@ _CLONE FULL OK IDZ_
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf SX`
-- `git clone https://github.com/SXCYBER420/SX `
+- `git clone https://github.com/SXCYBER420/SX`
 - `cd SX`
-- `python SX-1.0.py`
+- `python SX-V2.py`
 
 
 
